@@ -1,8 +1,8 @@
-# ASHA Mitra (आशा मित्र) - AI-Powered Voice Triage Assistant for ASHA Workers
+# ASHASathi - AI-Powered Voice Triage Assistant for ASHA Workers
 
 ## Overview
 
-ASHA Mitra is an AI-powered,platform built to empower ASHA (Accredited Social Health Activist) workers in rural India with instant clinical decision support. It acts as an intelligent digital companion that enables healthcare workers to assess patient conditions using voice, classify medical urgency, generate digital referrals, and securely verify records using blockchain technology.
+ASHA Sathi is an AI-powered,platform built to empower ASHA (Accredited Social Health Activist) workers in rural India with instant clinical decision support. It acts as an intelligent digital companion that enables healthcare workers to assess patient conditions using voice, classify medical urgency, generate digital referrals, and securely verify records using blockchain technology.
 
 The platform addresses challenges such as poor connectivity, language barriers, paper-based record management, and lack of structured triage systems in rural healthcare.
 
@@ -31,7 +31,7 @@ These limitations often result in delayed referrals, inconsistent assessments, a
 
 # Solution
 
-ASHA Mitra provides an AI-assisted healthcare ecosystem that works even in offline environments.
+ASHA sathi provides an AI-assisted healthcare ecosystem that works even in offline environments.
 
 The application enables ASHA workers to:
 
@@ -371,13 +371,6 @@ Immutable Verification
 
 # Installation
 
-## Clone Repository
-
-```bash
-git clone https://github.com/your-username/asha-mitra.git
-
-cd asha-mitra
-```
 
 ## Install Backend
 
