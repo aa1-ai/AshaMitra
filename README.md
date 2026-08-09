@@ -8,12 +8,6 @@ The platform addresses challenges such as poor connectivity, language barriers, 
 
 ---
 
-## Live Demo
-
-🔗 https://asha-mitra.vercel.app/
-
----
-
 # Problem Statement
 
 India's rural healthcare system depends heavily on ASHA workers who often serve as the first point of medical contact. However, they face several critical challenges:
